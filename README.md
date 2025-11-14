@@ -2,8 +2,6 @@
 
 <p align="center">
 Página que une todas suas informações em um só lugar! <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
-</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -35,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O ConnectPage é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://erikschulter.github.io/connectpage)
+- [Acesse o projeto finalizado, online](https://erikschulter.github.io/ConnectPage)
 
 
 
